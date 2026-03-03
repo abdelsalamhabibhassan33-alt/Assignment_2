@@ -1,4 +1,4 @@
-[readme.md](https://github.com/user-attachments/files/25713063/readme.md)
+
 Musanze Market Order System 
 A professional management portal for tracking supplier registrations and market orders in Musanze. Optimized for mobile and desktop with a premium Rose Gold aesthetic.
 
